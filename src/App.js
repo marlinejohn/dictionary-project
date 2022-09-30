@@ -13,7 +13,12 @@ export default function App() {
           </main>
         </header>
         <footer className="App-footer">
-          <small>Coded by Marline John</small>
+          <small>
+            This project is coded by Marline John and is{" "}
+            <a href="https://github.com/marlinejohn/dictionary-project">
+              open sourced on GitHub
+            </a>{" "}
+          </small>
         </footer>
       </div>
     </div>
